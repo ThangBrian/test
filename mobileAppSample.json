@@ -1,0 +1,1516 @@
+{
+    "travellers": [
+        {
+            "notes": "Notes…..",
+            "person": {
+                "dob": "1984-10-12",
+                "gender": "002641000002",
+                "surname": "LOVE",
+                "residency": "002615000003",
+                "givenNames": "Angel",
+                "citizenship": "002615000003"
+            },
+            "entityId": "4f3b2979-4de6-46a8-9b09-fc248c099cc9",
+            "referrals": [
+                {
+                    "id": "ddc4315b-9392-4c86-a505-a3bb69acb521",
+                    "area": "000739000003",
+                    "type": "000512000001",
+                    "source": "000745000004",
+                    "reasons": [
+                        "000688000011"
+                    ],
+                    "overridden": false,
+                    "referredBy": "system"
+                },
+                {
+                    "id": "be4f7db9-2d53-42bb-aef6-ab8143c1fe35",
+                    "area": "000739000001",
+                    "type": "000512000001",
+                    "notes": "Notes…..",
+                    "source": "000745000004",
+                    "userId": "wcs837",
+                    "reasons": [
+                        "000687000045"
+                    ],
+                    "overridden": false,
+                    "referredBy": "officer"
+                }
+            ],
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "declarations": {
+                "questions": [
+                    {
+                        "id": 131,
+                        "answers": [
+                            {
+                                "data": "845,460",
+                                "choiceId": 1832
+                            }
+                        ]
+                    },
+                    {
+                        "id": 128,
+                        "answers": [
+                            {
+                                "data": "846,460",
+                                "choiceId": 1826
+                            }
+                        ]
+                    },
+                    {
+                        "id": 130,
+                        "answers": [
+                            {
+                                "data": "845,110",
+                                "choiceId": 1830
+                            }
+                        ]
+                    },
+                    {
+                        "id": 127,
+                        "answers": [
+                            {
+                                "choiceId": 1824
+                            }
+                        ]
+                    },
+                    {
+                        "id": 125,
+                        "answers": [
+                            {
+                                "choiceId": 1820
+                            }
+                        ]
+                    },
+                    {
+                        "id": 124,
+                        "answers": [
+                            {
+                                "choiceId": 1817
+                            }
+                        ]
+                    },
+                    {
+                        "id": 126,
+                        "answers": [
+                            {
+                                "choiceId": 1822
+                            }
+                        ]
+                    }
+                ],
+                "purposeOfTrip": [
+                    "002500000004"
+                ],
+                "durationOfStay": 3650,
+                "placeOfResidence": "002615000003"
+            },
+            "assessmentData": {
+                "trbpResults": {
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "lsfdAssessment": {
+                    "endDate": "2026-09-15T12:02:42.412722611Z",
+                    "results": [],
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:02:42.21022031Z",
+                    "documentId": {
+                        "type": "002644000013",
+                        "issuer": "002615000003",
+                        "number": "NONUMBER"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "personAssessment": {
+                    "endDate": "2026-09-15T12:02:42.453539518Z",
+                    "results": [
+                        {
+                            "score": 100,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000003",
+                                "surname": "LOVE",
+                                "givenNames": "ANGEL"
+                            },
+                            "status": "000064000001",
+                            "cautions": [
+                                "000234000003"
+                            ],
+                            "provider": "001440000003",
+                            "dataSource": "001440000003",
+                            "identifiers": [
+                                {
+                                    "type": "001376000006",
+                                    "value": "1016-14-1221"
+                                }
+                            ],
+                            "activityType": "000178000002",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "000065000028",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 99,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELA",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0948"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031502"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 99,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELE",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0952"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031506"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 93,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELH",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0955"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031509"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 93,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELI",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0956"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031510"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 93,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELL",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0959"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031539"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELX",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0947"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031501"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELC",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0950"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031504"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELB",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0949"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031503"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELD",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0951"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031505"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELF",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0953"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031507"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELG",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0954"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031508"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELJ",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0957"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031515"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        },
+                        {
+                            "score": 91,
+                            "person": {
+                                "dob": "1984-10-12",
+                                "gender": "002641000004",
+                                "surname": "LOVE",
+                                "givenNames": "ANGELK",
+                                "birthCountry": "002615000013"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2019-A0891-0958"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "19031516"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:02:42.46362487Z",
+                            "queryStartedOn": "2026-09-15T12:02:42.205158844Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        }
+                    ],
+                    "noResults": false,
+                    "startDate": "2026-09-15T12:02:42.24893096Z",
+                    "queriedPerson": {
+                        "dob": "1984-10-12",
+                        "surname": "LOVE",
+                        "givenNames": "ANGEL",
+                        "citizenship": "002615000003"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "complianceAssessment": {
+                    "errors": [],
+                    "result": "002042000002",
+                    "silenced": false,
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "immigrationDocuments": {
+                    "endDate": "2026-09-15T12:02:42.433100946Z",
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:02:42.215845745Z",
+                    "documentId": {
+                        "type": "002644000013",
+                        "issuer": "002615000003",
+                        "number": "NONUMBER"
+                    },
+                    "permitFound": false,
+                    "visaRequired": "009014000003",
+                    "queryExecuted": true,
+                    "querySuccessful": true,
+                    "immigrationDocuments": []
+                }
+            },
+            "primaryDocument": {
+                "id": "084fccd6-ac8e-462a-a026-ed72613ac112",
+                "documentType": "002644000013",
+                "documentExpiry": "2053-09-15",
+                "documentNumber": "NONUMBER",
+                "documentOrigin": "002615000003"
+            },
+            "travellerGroupings": [
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                }
+            ],
+            "bioVerificationResult": "notAvailable"
+        },
+        {
+            "notes": "Bdjdjdjs",
+            "person": {
+                "dob": "2009-09-15",
+                "gender": "002641000002",
+                "surname": "A",
+                "residency": "002615000036",
+                "givenNames": "A",
+                "citizenship": "002615000036"
+            },
+            "entityId": "9641703f-7dd1-4575-abf1-9ffe80a975fb",
+            "referrals": [
+                {
+                    "id": "a99aa533-4387-4d12-b49f-a4012c267a3b",
+                    "area": "000739000002",
+                    "type": "000512000001",
+                    "notes": "Bdjdjdjs",
+                    "source": "000745000004",
+                    "userId": "wcs837",
+                    "reasons": [
+                        "000687000037",
+                        "000687000038"
+                    ],
+                    "overridden": false,
+                    "referredBy": "officer"
+                }
+            ],
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "declarations": {
+                "questions": [
+                    {
+                        "id": 131,
+                        "answers": [
+                            {
+                                "data": "643,160",
+                                "choiceId": 1832
+                            }
+                        ]
+                    },
+                    {
+                        "id": 129,
+                        "answers": [
+                            {
+                                "data": "856,560",
+                                "choiceId": 1828
+                            }
+                        ]
+                    },
+                    {
+                        "id": 130,
+                        "answers": [
+                            {
+                                "data": "556,560",
+                                "choiceId": 1830
+                            }
+                        ]
+                    },
+                    {
+                        "id": 124,
+                        "answers": [
+                            {
+                                "choiceId": 1818
+                            }
+                        ]
+                    },
+                    {
+                        "id": 127,
+                        "answers": [
+                            {
+                                "choiceId": 1823
+                            }
+                        ]
+                    },
+                    {
+                        "id": 125,
+                        "answers": [
+                            {
+                                "choiceId": 1819
+                            }
+                        ]
+                    },
+                    {
+                        "id": 126,
+                        "answers": [
+                            {
+                                "choiceId": 1821
+                            }
+                        ]
+                    }
+                ],
+                "placeOfResidence": "002615000036",
+                "durationOfAbsence": "001367000003"
+            },
+            "assessmentData": {
+                "trbpResults": {
+                    "queryExecuted": false,
+                    "querySuccessful": false
+                },
+                "lsfdAssessment": {
+                    "queryExecuted": false
+                },
+                "personAssessment": {
+                    "endDate": "2026-09-15T12:03:16.978275491Z",
+                    "results": [
+                        {
+                            "score": 89,
+                            "person": {
+                                "gender": "002641000003",
+                                "surname": "AA",
+                                "givenNames": "BB"
+                            },
+                            "status": "000064000008",
+                            "provider": "001440000003",
+                            "dataSource": "001440000003",
+                            "identifiers": [
+                                {
+                                    "type": "001376000006",
+                                    "value": "1016-15-0616"
+                                }
+                            ],
+                            "activityType": "000178000002",
+                            "queryEndedOn": "2026-09-15T12:03:16.981475674Z",
+                            "queryStartedOn": "2026-09-15T12:03:16.800986669Z",
+                            "activitySubType": "000065000001",
+                            "enforcementArea": "001169000002"
+                        },
+                        {
+                            "score": 86,
+                            "person": {
+                                "dob": "2005-07-11",
+                                "gender": "002641000003",
+                                "surname": "AA",
+                                "givenNames": "NORMA",
+                                "birthCountry": "002615000168"
+                            },
+                            "cautions": [
+                                "000548000012"
+                            ],
+                            "provider": "001440000001",
+                            "dataSource": "001440000001",
+                            "identifiers": [
+                                {
+                                    "type": "001376000005",
+                                    "value": "IEIS-2015-A0140-1925"
+                                },
+                                {
+                                    "type": "001376000002",
+                                    "value": "30040000"
+                                }
+                            ],
+                            "activityType": "000178000100",
+                            "queryEndedOn": "2026-09-15T12:03:16.981475674Z",
+                            "queryStartedOn": "2026-09-15T12:03:16.800986669Z",
+                            "activitySubType": "001165000006",
+                            "enforcementArea": "001169000001"
+                        }
+                    ],
+                    "noResults": false,
+                    "startDate": "2026-09-15T12:03:16.818858863Z",
+                    "queriedPerson": {
+                        "dob": "2009-09-15",
+                        "surname": "A",
+                        "givenNames": "A",
+                        "citizenship": "002615000036"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "complianceAssessment": {
+                    "errors": [],
+                    "result": "002042000002",
+                    "silenced": false,
+                    "queryExecuted": false,
+                    "querySuccessful": true
+                },
+                "immigrationDocuments": {
+                    "noResults": false,
+                    "permitFound": false,
+                    "visaRequired": "009014000003",
+                    "queryExecuted": false,
+                    "querySuccessful": false
+                }
+            },
+            "travellerGroupings": [
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                },
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                }
+            ]
+        },
+        {
+            "person": {
+                "dob": "1987-10-16",
+                "gender": "002641000003",
+                "surname": "TRBP",
+                "residency": "002615000148",
+                "givenNames": "Chimmuanya",
+                "citizenship": "002615000148"
+            },
+            "entityId": "3fa19cda-093f-4761-9e19-781029c2dfe7",
+            "referrals": [
+                {
+                    "id": "bf3a9a03-aff2-4423-bcb9-3d85f9124a1a",
+                    "area": "000739000003",
+                    "type": "000512000001",
+                    "source": "000745000004",
+                    "reasons": [
+                        "000688000050"
+                    ],
+                    "overridden": false,
+                    "referredBy": "system"
+                }
+            ],
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "declarations": {
+                "questions": [
+                    {
+                        "id": 130,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1830
+                            }
+                        ]
+                    },
+                    {
+                        "id": 131,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1832
+                            }
+                        ]
+                    },
+                    {
+                        "id": 128,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1826
+                            }
+                        ]
+                    },
+                    {
+                        "id": 124,
+                        "answers": [
+                            {
+                                "choiceId": 1818
+                            }
+                        ]
+                    },
+                    {
+                        "id": 125,
+                        "answers": [
+                            {
+                                "choiceId": 1819
+                            }
+                        ]
+                    },
+                    {
+                        "id": 126,
+                        "answers": [
+                            {
+                                "choiceId": 1821
+                            }
+                        ]
+                    },
+                    {
+                        "id": 127,
+                        "answers": [
+                            {
+                                "choiceId": 1823
+                            }
+                        ]
+                    }
+                ],
+                "purposeOfTrip": [
+                    "002500000002"
+                ],
+                "durationOfStay": 1,
+                "placeOfResidence": "002615000148"
+            },
+            "assessmentData": {
+                "trbpResults": {
+                    "result": {
+                        "gcmsUCI": "KFR4772",
+                        "biometricId": "BIO-4772-ID",
+                        "fpIndicator": true,
+                        "sequenceNumber": 1110404146,
+                        "clientInformation": {
+                            "image": "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",
+                            "gender": "002641000001",
+                            "surname": "TRBP",
+                            "birthDate": "1987-10-16",
+                            "givenName": "CHIMMUANYA",
+                            "birthPlace": {
+                                "city": "Mexico City",
+                                "country": "002615000148"
+                            },
+                            "citizenship": "002615000148",
+                            "travelDocument": {
+                                "type": "000905000099",
+                                "number": "A0182024",
+                                "issueCountry": "002615000148"
+                            },
+                            "controlDocumentNumber": [
+                                "PR4772"
+                            ],
+                            "fingerPrintRetentionDate": "2050-01-01"
+                        },
+                        "immigrationFileNumber": 500001311120
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "lsfdAssessment": {
+                    "endDate": "2026-09-15T12:06:03.904332911Z",
+                    "results": [],
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:06:03.567846522Z",
+                    "documentId": {
+                        "type": "002644000013",
+                        "issuer": "002615000148",
+                        "number": "A0182024"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "personAssessment": {
+                    "endDate": "2026-09-15T12:06:03.749843086Z",
+                    "results": [],
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:06:03.620049978Z",
+                    "queriedPerson": {
+                        "dob": "1987-10-16",
+                        "surname": "TRBP",
+                        "givenNames": "CHIMMUANYA",
+                        "citizenship": "002615000148"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "complianceAssessment": {
+                    "errors": [
+                        {
+                            "code": 14,
+                            "cause": "DownstreamSystem",
+                            "errorTime": "2026-09-15T12:06:04.676683796Z",
+                            "description": "Error in TCI response."
+                        }
+                    ],
+                    "silenced": false,
+                    "queryExecuted": true,
+                    "querySuccessful": false
+                },
+                "immigrationDocuments": {
+                    "endDate": "2026-09-15T12:06:03.82841047Z",
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:06:03.569506902Z",
+                    "documentId": {
+                        "type": "002644000013",
+                        "issuer": "002615000148",
+                        "number": "A0182024"
+                    },
+                    "permitFound": false,
+                    "visaRequired": "009014000001",
+                    "queryExecuted": true,
+                    "querySuccessful": true,
+                    "immigrationDocuments": []
+                }
+            },
+            "primaryDocument": {
+                "id": "219c64b3-7302-46bf-af73-2a6290f94eb6",
+                "documentType": "002644000013",
+                "documentNumber": "A0182024",
+                "documentOrigin": "002615000148"
+            },
+            "travellerGroupings": [
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                },
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                },
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                }
+            ],
+            "bioVerificationResult": "noMatch"
+        },
+        {
+            "notes": "Bababab",
+            "person": {
+                "dob": "1965-11-09",
+                "gender": "002641000002",
+                "surname": "YETTA",
+                "residency": "002615000036",
+                "givenNames": "JOLTON",
+                "citizenship": "002615000221",
+                "imageBase64": "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"
+            },
+            "entityId": "89e344b6-a8b3-4be3-a6da-f8b20aa5d7bb",
+            "referrals": [
+                {
+                    "id": "1952fd7a-da62-4e8f-85a1-ccce109130d8",
+                    "area": "000739000003",
+                    "type": "000512000004",
+                    "source": "000745000004",
+                    "userId": "wcs837",
+                    "reasons": [
+                        "000688000060",
+                        "000688000063"
+                    ],
+                    "overridden": false,
+                    "referredBy": "officer"
+                }
+            ],
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "memberships": [
+                {
+                    "type": "002894000004",
+                    "status": "000518000010",
+                    "identifiers": [
+                        {
+                            "type": "001938000006",
+                            "value": "1005338617"
+                        },
+                        {
+                            "type": "001938000011",
+                            "value": "980730324"
+                        }
+                    ],
+                    "memberDocuments": [
+                        {
+                            "type": "002644000013",
+                            "issuer": "002615000036",
+                            "surname": "YETTA",
+                            "expiresOn": "2031-02-01",
+                            "givenNames": "JOLTON"
+                        }
+                    ]
+                }
+            ],
+            "declarations": {
+                "questions": [
+                    {
+                        "id": 129,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1828
+                            }
+                        ]
+                    },
+                    {
+                        "id": 130,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1830
+                            }
+                        ]
+                    },
+                    {
+                        "id": 131,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1832
+                            }
+                        ]
+                    },
+                    {
+                        "id": 124,
+                        "answers": [
+                            {
+                                "choiceId": 1818
+                            }
+                        ]
+                    },
+                    {
+                        "id": 125,
+                        "answers": [
+                            {
+                                "choiceId": 1819
+                            }
+                        ]
+                    },
+                    {
+                        "id": 126,
+                        "answers": [
+                            {
+                                "choiceId": 1821
+                            }
+                        ]
+                    },
+                    {
+                        "id": 127,
+                        "answers": [
+                            {
+                                "choiceId": 1823
+                            }
+                        ]
+                    }
+                ],
+                "placeOfResidence": "002615000036",
+                "durationOfAbsence": "001367000001"
+            },
+            "assessmentData": {
+                "trbpResults": {
+                    "queryExecuted": false,
+                    "querySuccessful": false
+                },
+                "lsfdAssessment": {
+                    "queryExecuted": false
+                },
+                "personAssessment": {
+                    "endDate": "2026-09-15T12:07:13.649991951Z",
+                    "results": [],
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:07:13.51300217Z",
+                    "queriedPerson": {
+                        "dob": "1965-11-09",
+                        "surname": "YETTA",
+                        "givenNames": "JOLTON",
+                        "citizenship": "002615000221"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "complianceAssessment": {
+                    "errors": [],
+                    "result": "002042000002",
+                    "silenced": false,
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "immigrationDocuments": {
+                    "endDate": "2026-09-15T12:07:13.648948898Z",
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:07:13.483715799Z",
+                    "documentId": {
+                        "type": "002644000035",
+                        "issuer": "002615000036",
+                        "number": "980730324"
+                    },
+                    "permitFound": false,
+                    "visaRequired": "009014000003",
+                    "queryExecuted": true,
+                    "querySuccessful": true,
+                    "immigrationDocuments": []
+                }
+            },
+            "primaryDocument": {
+                "id": "1005338617",
+                "documentType": "002644000035",
+                "documentExpiry": "2031-02-01",
+                "documentNumber": "980730324",
+                "documentOrigin": "002615000036"
+            },
+            "travellerGroupings": [
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                }
+            ]
+        },
+        {
+            "person": {
+                "dob": "1982-09-15",
+                "gender": "002641000003",
+                "surname": "NO",
+                "residency": "002615000003",
+                "givenNames": "Valid Visa",
+                "citizenship": "002615000003"
+            },
+            "entityId": "abd91522-c603-442f-a9cc-8313130001a7",
+            "referrals": [
+                {
+                    "id": "56013a2f-d161-4057-8f64-669b592e3778",
+                    "area": "000739000003",
+                    "type": "000512000001",
+                    "source": "000745000004",
+                    "reasons": [
+                        "000688000066"
+                    ],
+                    "overridden": true,
+                    "referredBy": "system",
+                    "overrideReason": "001254000004"
+                },
+                {
+                    "id": "cfc5e104-0550-4de9-ae39-7bbd2d65e0a5",
+                    "area": "000739000001",
+                    "type": "000512000001",
+                    "source": "000745000004",
+                    "userId": "wcs837",
+                    "reasons": [
+                        "000687000045"
+                    ],
+                    "overridden": false,
+                    "referredBy": "officer"
+                }
+            ],
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "declarations": {
+                "questions": [
+                    {
+                        "id": 130,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1830
+                            }
+                        ]
+                    },
+                    {
+                        "id": 128,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1826
+                            }
+                        ]
+                    },
+                    {
+                        "id": 131,
+                        "answers": [
+                            {
+                                "data": "0",
+                                "choiceId": 1832
+                            }
+                        ]
+                    },
+                    {
+                        "id": 126,
+                        "answers": [
+                            {
+                                "choiceId": 1821
+                            }
+                        ]
+                    },
+                    {
+                        "id": 125,
+                        "answers": [
+                            {
+                                "choiceId": 1819
+                            }
+                        ]
+                    },
+                    {
+                        "id": 127,
+                        "answers": [
+                            {
+                                "choiceId": 1823
+                            }
+                        ]
+                    },
+                    {
+                        "id": 124,
+                        "answers": [
+                            {
+                                "choiceId": 1818
+                            }
+                        ]
+                    }
+                ],
+                "purposeOfTrip": [
+                    "002500000002"
+                ],
+                "durationOfStay": 1,
+                "placeOfResidence": "002615000003"
+            },
+            "assessmentData": {
+                "trbpResults": {
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "lsfdAssessment": {
+                    "endDate": "2026-09-15T12:08:00.939669592Z",
+                    "results": [],
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:08:00.789506867Z",
+                    "documentId": {
+                        "type": "002644000013",
+                        "issuer": "002615000003",
+                        "number": "BANANA"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "personAssessment": {
+                    "endDate": "2026-09-15T12:08:00.927066769Z",
+                    "results": [],
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:08:00.810894388Z",
+                    "queriedPerson": {
+                        "dob": "1982-09-15",
+                        "surname": "NO",
+                        "givenNames": "VALID VISA",
+                        "citizenship": "002615000003"
+                    },
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "complianceAssessment": {
+                    "errors": [],
+                    "result": "002042000002",
+                    "silenced": false,
+                    "queryExecuted": true,
+                    "querySuccessful": true
+                },
+                "immigrationDocuments": {
+                    "endDate": "2026-09-15T12:08:00.895152302Z",
+                    "noResults": true,
+                    "startDate": "2026-09-15T12:08:00.792649123Z",
+                    "documentId": {
+                        "type": "002644000013",
+                        "issuer": "002615000003",
+                        "number": "BANANA"
+                    },
+                    "permitFound": false,
+                    "visaRequired": "009014000001",
+                    "queryExecuted": true,
+                    "querySuccessful": true,
+                    "immigrationDocuments": []
+                }
+            },
+            "primaryDocument": {
+                "id": "897f41f8-3213-433a-ad09-c62c503c2419",
+                "documentType": "002644000013",
+                "documentExpiry": "2052-09-15",
+                "documentNumber": "BANANA",
+                "documentOrigin": "002615000003"
+            },
+            "travellerGroupings": [
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                },
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                },
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                },
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                }
+            ],
+            "bioVerificationResult": "notAvailable"
+        }
+    ],
+    "conveyances": [
+        {
+            "details": {
+                "highway": {
+                    "licensePlate": "BUS123",
+                    "provinceState": {
+                        "code": "002640000001",
+                        "flag": "ca",
+                        "name": "Alberta",
+                        "country": "Canada",
+                        "countryCode": "002615000036",
+                        "abbreviation": "AB"
+                    },
+                    "conveyanceType": "002698000010"
+                }
+            },
+            "entityId": "abde3f39-91c6-4e70-a0e7-7d5b42be3688",
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "assessmentData": {
+                "errors": [],
+                "queryExecuted": false
+            },
+            "conveyanceMode": "002683000001",
+            "travellerGroupings": [
+                {
+                    "groupId": "b5d8f5c5-ea1e-4c3a-aef5-55078bfd2e96",
+                    "groupType": "001937000003",
+                    "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d"
+                }
+            ],
+            "isPrimaryConveyance": true
+        },
+        {
+            "details": {
+                "highway": {
+                    "licensePlate": "MOTO",
+                    "provinceState": {
+                        "code": "002640000001",
+                        "flag": "ca",
+                        "name": "Alberta",
+                        "country": "Canada",
+                        "countryCode": "002615000036",
+                        "abbreviation": "AB"
+                    },
+                    "conveyanceType": "002698000008"
+                }
+            },
+            "entityId": "59b752c1-a85e-4303-a954-67e700377a91",
+            "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+            "assessmentData": {
+                "errors": [],
+                "endDate": "2026-09-15T12:00:47.573193171Z",
+                "noResults": true,
+                "startDate": "2026-09-15T12:00:46.625048663Z",
+                "queryExecuted": true,
+                "querySuccessful": true
+            },
+            "conveyanceMode": "002683000001",
+            "travellerGroupings": [],
+            "isPrimaryConveyance": false
+        }
+    ],
+    "crossingMetadata": {
+        "site": {
+            "laneNum": "TP87",
+            "siteCode": "4516"
+        },
+        "device": "ebc85b1d-7c98-435e-a1bd-3852b78a1eee",
+        "laneMode": "009005000001",
+        "crossingId": "f04fe75a-c760-4acf-b2aa-cb637c0f898d",
+        "travelMode": "002683000001",
+        "processingZone": "001940000005"
+    },
+    "crossingRecommendation": {
+        "errors": [],
+        "decision": "002729000002",
+        "entities": [
+            {
+                "id": "4f3b2979-4de6-46a8-9b09-fc248c099cc9",
+                "decision": "002729000002",
+                "randomHit": false,
+                "referrals": [
+                    {
+                        "area": "000739000003",
+                        "type": "000512000001",
+                        "reasons": [
+                            "000688000011"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "3fa19cda-093f-4761-9e19-781029c2dfe7",
+                "decision": "002729000002",
+                "randomHit": false,
+                "referrals": [
+                    {
+                        "area": "000739000003",
+                        "type": "000512000001",
+                        "reasons": [
+                            "000688000050"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "abde3f39-91c6-4e70-a0e7-7d5b42be3688",
+                "decision": "002729000001",
+                "randomHit": false,
+                "referrals": []
+            },
+            {
+                "id": "59b752c1-a85e-4303-a954-67e700377a91",
+                "decision": "002729000001",
+                "randomHit": false,
+                "referrals": []
+            },
+            {
+                "id": "89e344b6-a8b3-4be3-a6da-f8b20aa5d7bb",
+                "decision": "002729000001",
+                "randomHit": false,
+                "referrals": []
+            },
+            {
+                "id": "9641703f-7dd1-4575-abf1-9ffe80a975fb",
+                "decision": "002729000001",
+                "randomHit": false,
+                "referrals": []
+            },
+            {
+                "id": "abd91522-c603-442f-a9cc-8313130001a7",
+                "decision": "002729000003",
+                "randomHit": false,
+                "referrals": [
+                    {
+                        "area": "000739000003",
+                        "type": "000512000001",
+                        "reasons": [
+                            "000688000066"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "rulesExecutedAt": "2026-09-15T12:10:57.580695801Z",
+        "recommendSuccessful": true
+    }
+}
